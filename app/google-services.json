@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665678575722",
+    "firebase_url": "https://groupproject-ada5c.firebaseio.com",
+    "project_id": "groupproject-ada5c",
+    "storage_bucket": "groupproject-ada5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665678575722:android:2c10e81fd1a6c13cbab213",
+        "android_client_info": {
+          "package_name": "edu.hkbu.comp4097.groupproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665678575722-dr9u9frb63vvior7qdfhisgsm5og8mbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJli8ljFc1KW7bYUAB8Q16i_b6aULUvPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665678575722-dr9u9frb63vvior7qdfhisgsm5og8mbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

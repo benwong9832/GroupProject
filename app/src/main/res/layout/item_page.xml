@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.github.mikephil.charting.charts.LineChart
+            android:id="@+id/bar_line"
+            android:layout_width="match_parent"
+            android:layout_height="800dp">
+
+        </com.github.mikephil.charting.charts.LineChart>
+
+        <!--
+        <com.github.mikephil.charting.charts.PieChart
+            android:id="@+id/bar_pie"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+            -->
+
+    </LinearLayout>
+</RelativeLayout>
